@@ -4,15 +4,14 @@ title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I graduated from Washington State University with a B.S. in Computer Science. My career interest revolves around the topic of computational finance and high-speed software. I am working on my level 2 CFA.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Day Job
+I am currently a software engineer at [Mandiri Sekuritas](http://www.mandirisekuritas.co.id/) working on revamping their order management system, risk management system, as well as order execution and routing. I am also responsible for the consumption and processing of market data from the Indonesia Stock Exchange (IDX).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+After work, I am an independent quant trader, trading my own money. I am managing a multi-strategy portfolio that trades equities, options, and crypto, with a focus on high-frequency and arbitrage strategies. I believe opportunities are everywhere, and I am always looking for new ideas to implement.
 
+## Outside of Work
+I also have a keen interest in using statistics in gambling. Although I am not a gambler myself, I am interested in the math behind it. I'm a city boy, love to walk around the city and explore new places. I found that walking around the city is a great way to clear my mind and generate new ideas. Here's me executing a trade at a cafe.
 
-[jekyll-organization]: https://github.com/jekyll
+![Me working at a cafe](/assets/images/IMG_6042.png)
